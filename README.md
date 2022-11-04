@@ -3,7 +3,7 @@
         <div>
             <p>Hi there, I'm Hannah!</p>
         </div>
-        <div align="right" border="hidden">
+        <div align="right">
             <pre>
          \||/                
     oo___@  |                
