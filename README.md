@@ -8,3 +8,4 @@
         </div>
     </body>
 </html>
+[![GitHub Streak](https://streak-stats.demolab.com?user=drakaina8&theme=blood-dark&hide_border=true)](https://git.io/streak-stats)
