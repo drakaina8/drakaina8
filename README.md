@@ -3,20 +3,8 @@
         <div>
             <p>Hi there, I'm Hannah!</p>
         </div>
-        <div align="right">
-            <pre>
-         \||/                
-    oo___@  |                
-    |,,,,__) \  /\   /\      
-           (_ \/^ (/^\ (     
-           (_   \/^\   (     
-           (_ \  \ _   (     
-          (_( |  || \/\(  /\ 
-         (__( (,,)|      <  >
-        /(___(/    \      || 
-    ___( (___(      )____/ | 
-    ;;;__ ;;;_______)______/ 
-            </pre>
+        <div>
+            <a href="https://drakaina8.github.io/" target"_blank">Check out my portfolio!</a>
         </div>
     </body>
 </html>
